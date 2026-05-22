@@ -1,1 +1,9 @@
-venv/, __pycache__/, *.pyc, .env
+﻿# Bloquear entorno virtual y cache del Backend
+camino-vocacional-backend/venv/
+camino-vocacional-backend/__pycache__/
+camino-vocacional-backend/*.pyc
+camino-vocacional-backend/.env
+
+# Bloquear dependencias del Frontend (para cuando las usemos)
+camino-vocacional-frontend/node_modules/
+camino-vocacional-frontend/dist/
