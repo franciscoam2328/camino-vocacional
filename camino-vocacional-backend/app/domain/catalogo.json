@@ -1,0 +1,437 @@
+{
+  "areas_vocacionales": {
+    "1": {
+      "nombre": "Realista (Ingenierías, Tecnologías y Agro)",
+      "perfil_riasec": "R",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Ingeniería de Sistemas e Inteligencia Artificial", "pension_mensual": 620.00},
+            {"nombre": "Ingeniería Electrónica y Mecatrónica", "pension_mensual": 620.00},
+            {"nombre": "Ingeniería Civil", "pension_mensual": 620.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 620.00},
+            {"nombre": "Ingeniería Agrónomo", "pension_mensual": 620.00},
+            {"nombre": "Agroexportación", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Ingeniería de Sistemas", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Mecánica", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Mecatrónica", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Civil", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería de Materiales", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Metalúrgica", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería de Minas", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Química", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Agrícola", "pension_mensual": 0.00},
+            {"nombre": "Ingeniería Agroindustrial", "pension_mensual": 0.00},
+            {"nombre": "Agronomía", "pension_mensual": 0.00},
+            {"nombre": "Zootecnia", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Ingeniería de Sistemas Computacionales", "pension_mensual": 750.00},
+            {"nombre": "Ingeniería de Software", "pension_mensual": 750.00},
+            {"nombre": "Ingeniería en Ciencia de Datos", "pension_mensual": 800.00},
+            {"nombre": "Ingeniería Mecatrónica", "pension_mensual": 750.00},
+            {"nombre": "Ingeniería Electrónica", "pension_mensual": 750.00},
+            {"nombre": "Ingeniería Civil", "pension_mensual": 750.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 750.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Ingeniería Civil", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería de Sistemas", "pension_mensual": 700.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Ingeniería Civil", "pension_mensual": 450.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 450.00},
+            {"nombre": "Ingeniería de Minas", "pension_mensual": 450.00},
+            {"nombre": "Ingeniería Mecánico Eléctrica", "pension_mensual": 450.00}
+          ]
+        },
+        {
+          "nombre": "UTP",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Ingeniería de Sistemas e Informática", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería de Software", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Mecatrónica", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Electrónica", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Civil", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Industrial", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería Mecánica", "pension_mensual": 700.00},
+            {"nombre": "Ingeniería de Telecomunicaciones", "pension_mensual": 700.00}
+          ]
+        }
+      ]
+    },
+    "2": {
+      "nombre": "Investigador (Ciencias de la Salud y Puras)",
+      "perfil_riasec": "I",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Medicina Humana", "pension_mensual": 1840.00},
+            {"nombre": "Estomatología", "pension_mensual": 870.00},
+            {"nombre": "Enfermería", "pension_mensual": 620.00},
+            {"nombre": "Obstetricia", "pension_mensual": 620.00},
+            {"nombre": "Medicina Veterinaria y Zootecnia", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Medicina", "pension_mensual": 0.00},
+            {"nombre": "Estomatología", "pension_mensual": 0.00},
+            {"nombre": "Enfermería", "pension_mensual": 0.00},
+            {"nombre": "Farmacia y Bioquímica", "pension_mensual": 0.00},
+            {"nombre": "Microbiología y Parasitología", "pension_mensual": 0.00},
+            {"nombre": "Biología Pesquera", "pension_mensual": 0.00},
+            {"nombre": "Ciencias Biológicas", "pension_mensual": 0.00},
+            {"nombre": "Física", "pension_mensual": 0.00},
+            {"nombre": "Matemáticas", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Enfermería", "pension_mensual": 650.00},
+            {"nombre": "Farmacia y Bioquímica", "pension_mensual": 650.00},
+            {"nombre": "Nutrición y Dietética", "pension_mensual": 650.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Medicina", "pension_mensual": 1200.00},
+            {"nombre": "Estomatología", "pension_mensual": 950.00},
+            {"nombre": "Enfermería", "pension_mensual": 900.00},
+            {"nombre": "Nutrición", "pension_mensual": 900.00},
+            {"nombre": "Tecnología Médica en Laboratorio Clínico", "pension_mensual": 900.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Enfermería", "pension_mensual": 550.00},
+            {"nombre": "Farmacia y Bioquímica", "pension_mensual": 550.00},
+            {"nombre": "Nutrición Humana y Dietética", "pension_mensual": 550.00},
+            {"nombre": "Tecnología Médica en Terapia Física", "pension_mensual": 550.00}
+          ]
+        }
+      ]
+    },
+    "3": {
+      "nombre": "Artístico (Diseño, Arquitectura y Expresión)",
+      "perfil_riasec": "A",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Arquitectura", "pension_mensual": 620.00},
+            {"nombre": "Comunicación y Medios Digitales", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Arquitectura y Urbanismo", "pension_mensual": 0.00},
+            {"nombre": "Arqueología", "pension_mensual": 0.00},
+            {"nombre": "Ciencias de la Comunicación", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Idiomas", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Comunicación y Diseño Gráfico", "pension_mensual": 580.00},
+            {"nombre": "Comunicación Audiovisual en Medios Digitales", "pension_mensual": 580.00},
+            {"nombre": "Comunicación", "pension_mensual": 550.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Artes & Diseño Gráfico Empresarial", "pension_mensual": 550.00},
+            {"nombre": "Ciencias de la Comunicación", "pension_mensual": 550.00},
+            {"nombre": "Traducción e Interpretación", "pension_mensual": 550.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Arquitectura", "pension_mensual": 500.00},
+            {"nombre": "Gastronomía y Gestión Empresarial", "pension_mensual": 400.00},
+            {"nombre": "Ciencias de la Comunicación", "pension_mensual": 380.00}
+          ]
+        },
+        {
+          "nombre": "UTP",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Diseño Gráfico", "pension_mensual": 550.00},
+            {"nombre": "Diseño Digital y Publicitario", "pension_mensual": 550.00},
+            {"nombre": "Ciencias de la Comunicación", "pension_mensual": 550.00}
+          ]
+        }
+      ]
+    },
+    "4": {
+      "nombre": "Social (Orientación, Educación y Servicio)",
+      "perfil_riasec": "S",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Psicología", "pension_mensual": 620.00},
+            {"nombre": "Educación Inicial", "pension_mensual": 420.00},
+            {"nombre": "Derecho", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Derecho", "pension_mensual": 0.00},
+            {"nombre": "Ciencias Políticas y Gobernabilidad", "pension_mensual": 0.00},
+            {"nombre": "Trabajo Social", "pension_mensual": 0.00},
+            {"nombre": "Antropología", "pension_mensual": 0.00},
+            {"nombre": "Historia", "pension_mensual": 0.00},
+            {"nombre": "Educación Inicial", "pension_mensual": 0.00},
+            {"nombre": "Educación Primaria", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Mención Ciencias Naturales", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Mención Lengua y Literatura", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Mención Filosofía y Psicología", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Mención Historia y Geografía", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Psicología", "pension_mensual": 600.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Derecho", "pension_mensual": 600.00},
+            {"nombre": "Psicología", "pension_mensual": 600.00},
+            {"nombre": "Educación Inicial", "pension_mensual": 450.00},
+            {"nombre": "Educación Primaria", "pension_mensual": 450.00},
+            {"nombre": "Ciencias del Deporte", "pension_mensual": 500.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Derecho", "pension_mensual": 400.00},
+            {"nombre": "Psicología", "pension_mensual": 400.00},
+            {"nombre": "Educación Inicial", "pension_mensual": 340.00},
+            {"nombre": "Educación Primaria", "pension_mensual": 340.00},
+            {"nombre": "Educación Especial", "pension_mensual": 340.00},
+            {"nombre": "Educación Física y Deportes", "pension_mensual": 340.00},
+            {"nombre": "Educación Secundaria (Especialidades)", "pension_mensual": 340.00},
+            {"nombre": "Teología", "pension_mensual": 340.00}
+          ]
+        },
+        {
+          "nombre": "UTP",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Derecho", "pension_mensual": 550.00},
+            {"nombre": "Psicología", "pension_mensual": 550.00}
+          ]
+        }
+      ]
+    },
+    "5": {
+      "nombre": "Emprendedor (Liderazgo, Negocios y Marketing)",
+      "perfil_riasec": "E",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Administración", "pension_mensual": 620.00},
+            {"nombre": "Administración y Marketing", "pension_mensual": 620.00},
+            {"nombre": "Economía y Negocios Internacionales", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Administración", "pension_mensual": 0.00},
+            {"nombre": "Economía", "pension_mensual": 0.00},
+            {"nombre": "Turismo", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Administración", "pension_mensual": 550.00},
+            {"nombre": "Administración y Marketing", "pension_mensual": 550.00},
+            {"nombre": "Administración y Negocios Internacionales", "pension_mensual": 550.00},
+            {"nombre": "Administración y Servicios Turísticos", "pension_mensual": 520.00},
+            {"nombre": "Comunicación y Marketing Digital", "pension_mensual": 580.00},
+            {"nombre": "Comunicación y Publicidad", "pension_mensual": 580.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Administración de Empresas", "pension_mensual": 500.00},
+            {"nombre": "Administración y Marketing", "pension_mensual": 500.00},
+            {"nombre": "Administración y Negocios Internacionales", "pension_mensual": 500.00},
+            {"nombre": "Administración en Turismo y Hotelería", "pension_mensual": 500.00},
+            {"nombre": "Economía", "pension_mensual": 500.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Administración", "pension_mensual": 380.00},
+            {"nombre": "Administración Turística", "pension_mensual": 380.00}
+          ]
+        },
+        {
+          "nombre": "UTP",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Administración de Empresas", "pension_mensual": 550.00},
+            {"nombre": "Administración de Negocios Internacionales", "pension_mensual": 550.00},
+            {"nombre": "Administración y Marketing", "pension_mensual": 550.00},
+            {"nombre": "Comunicación y Publicidad", "pension_mensual": 550.00}
+          ]
+        }
+      ]
+    },
+    "6": {
+      "nombre": "Convencional (Organización, Datos y Finanzas)",
+      "perfil_riasec": "C",
+      "universidades": [
+        {
+          "nombre": "UPAO",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Contabilidad y Finanzas", "pension_mensual": 620.00}
+          ]
+        },
+        {
+          "nombre": "UNT",
+          "tipo": "Pública",
+          "matricula_ciclo": 50.00,
+          "carreras": [
+            {"nombre": "Contabilidad y Finanzas", "pension_mensual": 0.00},
+            {"nombre": "Estadística", "pension_mensual": 0.00},
+            {"nombre": "Informática", "pension_mensual": 0.00},
+            {"nombre": "Educación Secundaria: Matemáticas", "pension_mensual": 0.00}
+          ]
+        },
+        {
+          "nombre": "UPN",
+          "tipo": "Privada",
+          "matricula_ciclo": 370.00,
+          "carreras": [
+            {"nombre": "Contabilidad y Finanzas", "pension_mensual": 550.00},
+            {"nombre": "Administración Bancaria y Financiera", "pension_mensual": 550.00},
+            {"nombre": "Ingeniería Empresarial", "pension_mensual": 700.00}
+          ]
+        },
+        {
+          "nombre": "UCV",
+          "tipo": "Privada",
+          "matricula_ciclo": 300.00,
+          "carreras": [
+            {"nombre": "Contabilidad", "pension_mensual": 500.00},
+            {"nombre": "Administración y Gestión Pública", "pension_mensual": 550.00}
+          ]
+        },
+        {
+          "nombre": "UCT",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Contabilidad", "pension_mensual": 380.00}
+          ]
+        },
+        {
+          "nombre": "UTP",
+          "tipo": "Privada",
+          "matricula_ciclo": 180.00,
+          "carreras": [
+            {"nombre": "Contabilidad", "pension_mensual": 550.00},
+            {"nombre": "Administración, Banca y Finanzas", "pension_mensual": 550.00},
+            {"nombre": "Ingeniería Empresarial", "pension_mensual": 700.00}
+          ]
+        }
+      ]
+    }
+  }
+}
